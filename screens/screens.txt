@@ -1,0 +1,11 @@
+screen1;32
+beauty and the beast;1000;1230
+kong skull island;1530;1830;2100
+screen2;26
+la la land;1030;1300
+moonlight;1600;1800
+kong skull island;2000
+screen3;32
+beauty and the beast;1030;1300
+logan;1530;1800
+kong skull island;2030

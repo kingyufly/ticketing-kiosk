@@ -1,0 +1,5 @@
+KONG: SKULL ISLAND;118;kong skull island
+LOGAN;135;logan
+BEAUTY AND THE BEAST;130;beauty and the beast
+MOONLIGHT;111;moonlight
+LA LA LAND;128;la la land
